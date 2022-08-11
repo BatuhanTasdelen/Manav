@@ -1,0 +1,14 @@
+C:\Users\Casper\Desktop\MANAV\MANAV\obj\Debug\netcoreapp3.1\MANAV.csproj.AssemblyReference.cache
+C:\Users\Casper\Desktop\MANAV\MANAV\obj\Debug\netcoreapp3.1\MANAV.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Casper\Desktop\MANAV\MANAV\obj\Debug\netcoreapp3.1\MANAV.AssemblyInfoInputs.cache
+C:\Users\Casper\Desktop\MANAV\MANAV\obj\Debug\netcoreapp3.1\MANAV.AssemblyInfo.cs
+C:\Users\Casper\Desktop\MANAV\MANAV\obj\Debug\netcoreapp3.1\MANAV.csproj.CoreCompileInputs.cache
+C:\Users\Casper\Desktop\MANAV\MANAV\bin\Debug\netcoreapp3.1\MANAV.exe
+C:\Users\Casper\Desktop\MANAV\MANAV\bin\Debug\netcoreapp3.1\MANAV.deps.json
+C:\Users\Casper\Desktop\MANAV\MANAV\bin\Debug\netcoreapp3.1\MANAV.runtimeconfig.json
+C:\Users\Casper\Desktop\MANAV\MANAV\bin\Debug\netcoreapp3.1\MANAV.runtimeconfig.dev.json
+C:\Users\Casper\Desktop\MANAV\MANAV\bin\Debug\netcoreapp3.1\MANAV.dll
+C:\Users\Casper\Desktop\MANAV\MANAV\bin\Debug\netcoreapp3.1\MANAV.pdb
+C:\Users\Casper\Desktop\MANAV\MANAV\obj\Debug\netcoreapp3.1\MANAV.dll
+C:\Users\Casper\Desktop\MANAV\MANAV\obj\Debug\netcoreapp3.1\MANAV.pdb
+C:\Users\Casper\Desktop\MANAV\MANAV\obj\Debug\netcoreapp3.1\MANAV.genruntimeconfig.cache
